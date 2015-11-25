@@ -2,3 +2,5 @@
 This is an app used to monitor and track complaints in your vicinity.
 
 The project has been linked with YOUTRACK bugs
+
+testing RWA-4
