@@ -7,7 +7,6 @@
 
 var Thing = require('../api/thing/thing.model');
 var User = require('../api/user/user.model');
-
 Thing.find({}).remove(function() {
   Thing.create({
     name : 'Development Tools',
@@ -27,6 +26,8 @@ Thing.find({}).remove(function() {
   },{
     name : 'Deployment Ready',
     info : 'Easily deploy your app to Heroku or Openshift with the heroku and openshift subgenerators'
+  }, function(){
+      console.log("Finished populating dummy data !!!");
   });
 });
 
