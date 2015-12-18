@@ -25,6 +25,6 @@ Following is the developer's section where details of building and running the p
       * In this mode the DB used in rwa-test
       * The DB remains persisted even after every code change
 - [ ] PROD MODE : WIP
-- [x] Debug Mode : 'grunt node-inspector`
+- [x] Debug Mode : `grunt node-inspector`
 
 The project has been linked with [YOUTRACK] (http://rahulmeghlan-pc:8080/) bugs
