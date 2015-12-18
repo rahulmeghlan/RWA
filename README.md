@@ -1,7 +1,7 @@
 # RWA
 ######This is an app used to monitor and track complaints in your vicinity.
 
-## PROJECT REQUIREMENTS
+##### PROJECT REQUIREMENTS
 The project will be divided into various sections. Following are the sections till date which have been finalized: 
 
 1. **User Management**
