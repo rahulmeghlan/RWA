@@ -1,6 +1,6 @@
 # RWA
 ######This is an app used to monitor and track complaints in your vicinity.
-----
+
 ## PROJECT REQUIREMENTS
 The project will be divided into various sections. Following are the sections till date which have been finalized: 
 
@@ -17,7 +17,7 @@ Each section will be described in more detail in the sections below.
 Following is the developer's section where details of building and running the project are available :
 
 #### Starting the App:
-
+- [x] MONGOD : Inorder to run the app you need to start the mongod service with the following command `mongod`
 - [x] DEV MODE : `grunt serve`
       * In this mode the DB used in rwa-dev
       * The DB get's reset after every code change
