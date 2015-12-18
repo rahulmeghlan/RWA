@@ -10,7 +10,8 @@ The project will be divided into various sections. Following are the sections ti
 4. **Complaint Voting**
 5. **Complaint Tracking**
 6. **Complaint Closing**
-----
+
+
 Each section will be described in more detail in the sections below.
 
 Following is the developer's section where details of building and running the project are available :
