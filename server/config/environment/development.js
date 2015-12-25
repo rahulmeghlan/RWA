@@ -8,5 +8,5 @@ module.exports = {
     uri: 'mongodb://localhost/rwa-dev'
   },
 
-  seedDB: true
+  seedDB: false
 };
