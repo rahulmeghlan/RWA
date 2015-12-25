@@ -15,8 +15,8 @@ angular.module('rwaApp')
                 })
                     .then(function () {
                         // Logged in, redirect to home
-//                        var path = Auth.isAdmin() ? "/admin" : "/home";
-                        $location.path("/home");
+                        var path = Auth.isAdmin() ? "/admin" : "/home";
+                        $location.path(path);
                     })
                     .catch(function (err) {
                         $scope.errors.other = err.message;
